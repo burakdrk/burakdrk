@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a software developer with previous work experience in web development. I am currently learning graphics/game programming.
+### Stats 📊
+![](https://github-readme-stats.vercel.app/api?username=burakdrk&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=burakdrk&theme=dark&layout=compact)<br/>
 
 <!--
 **burakdrk/burakdrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
