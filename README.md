@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I'm a software developer with previous work experience in full stack web development. I am currently learning graphics/game programming.
 ### Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=burakdrk&theme=merko)<br/>
