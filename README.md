@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a software developer with previous work experience in full stack web development. Currently learning mobile and graphics programming.
+I'm a software developer with previous work experience in full stack web development.
 ### Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=burakdrk&theme=merko)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=burakdrk&theme=merko&layout=compact)<br/>
